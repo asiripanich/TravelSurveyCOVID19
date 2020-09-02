@@ -1,6 +1,6 @@
 # Travel survey resources
 
-This repository holds the travel survey resources that we used to conduct a smartphone travel survey during the period of COVID-19 in Australia.
+This repository holds the survey forms that we used to conduct a smartphone travel survey during the period of COVID-19 in Australia.
 
 component | link
 ---|---
